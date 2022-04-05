@@ -1,3 +1,6 @@
+Live: [https://voray-cors-anywhere.herokuapp.com](https://voray-cors-anywhere.herokuapp.com)
+Heroku: [voray-cors-anywhere](https://dashboard.heroku.com/apps/voray-cors-anywhere)
+
 [![Build Status](https://travis-ci.com/Rob--W/cors-anywhere.svg?branch=master)](https://travis-ci.com/Rob--W/cors-anywhere)
 [![Coverage Status](https://coveralls.io/repos/github/Rob--W/cors-anywhere/badge.svg?branch=master)](https://coveralls.io/github/Rob--W/cors-anywhere?branch=master)
 
